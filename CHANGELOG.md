@@ -1,3 +1,4 @@
-## [0.0.1] - TODO: Add release date.
+## [0.0.1-nullsafety.0] - 2021-01-27
 
-* TODO: Describe initial release.
+* Write code for the thumbnails view with example.
+* Add documentation comments.
